@@ -4,7 +4,7 @@ import alchemy
 import alchemy.elements
 
 
-def main():
+def main() -> None:
     print("\n=== Sacred Scroll Mastery ===\n")
 
     print("Testing direct module access:")

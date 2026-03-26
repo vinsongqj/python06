@@ -7,7 +7,7 @@ from alchemy.elements import create_fire, create_earth
 from alchemy.potions import strength_potion
 
 
-def main():
+def main() -> None:
     print("\n=== Import Transmutation Mastery ===\n")
 
     print("Method 1 - Full module import:")

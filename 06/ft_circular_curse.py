@@ -3,7 +3,7 @@
 from alchemy.grimoire import validate_ingredients, record_spell
 
 
-def main():
+def main() -> None:
     print("\n=== Circular Curse Breaking ===\n")
 
     print("Testing ingredient validation:")
